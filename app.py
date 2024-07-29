@@ -33,7 +33,8 @@ def upload():
         with open(masked_pdf_path, 'w') as masked_file:
             masked_file.write(masked_text)
         
-        return redirect(url_for('download', filename=os.path.basename(masked_pdf_path)))
+        download_link = url_for('download', filename=os.path.basename(masked_pdf_path))
+        return render_template('upload.html', download_link=download_link)
 
 @app.route('/download/<filename>')
 def download(filename):

@@ -1,13 +1,22 @@
 body {
-    font-family: Arial, sans-serif;
+    background-color: #1d08a5;
+    font-family: 'Arial', sans-serif;
 }
 
-.container {
-    width: 50%;
-    margin: 0 auto;
-    text-align: center;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    margin-top: 50px;
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #db4856;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #128610;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #3c88db;
 }

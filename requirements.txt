@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+pytesseract
+opencv-python
+Pillow
+spacy

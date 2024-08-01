@@ -13,6 +13,7 @@ Step 4: Fill in the Basic details required to proceed.
                 v) Enter your email id  (Personal email id suggested over college email id. Using college email ID, may 
 give problems as your col lege may deactivate your email ID after completion of your degree, so you may not be 
 able to receive joining details from )
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -28,6 +29,7 @@ hometown, this can be updated in future)
                   x) Create a password  as per  policy (Kindly save your password on mobile notes, students tend 
 to forget or misplace their password)  
                 xi) Choose Security question  and enter cha  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -36,6 +38,7 @@ TCS Registration & Application form Submission Steps
                  Xii) Click on “Submit ” function.  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -51,6 +54,7 @@ This Reference ID is your ‘ ER ID ’ – Save it & click on ‘Continue’
 xv) Enter your ‘password ’ & click on ‘ Subm it’ to proceed further.  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -68,6 +72,7 @@ ii) Enter Father’s name
 iii) Enter Permanent Address  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -78,6 +83,7 @@ iii) Contact Details  (Enter your alternative email ID & Phone number(Not Mandat
 Step:8  Click on Save & Continue  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -91,6 +97,7 @@ reflecting correct, do not make any changes)
 Click on ‘ Save & Continue ’ Tab  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -117,6 +124,7 @@ March,2017)
 > Click on ‘Save  & continue’  tab 
 The above same steps need to be followed for the Diploma course as well  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -127,6 +135,7 @@ TCS Registration & Application form Submission Steps
  (Ex : Diploma )  
  
  
+
  
 TCS Registration & Application form Submission Steps  
 Step: 9.4  Click on ‘ X Grade’  
@@ -142,6 +151,7 @@ Step: 9.5  Click on ‘ Any Other Qualificati ons’  & Choose ‘YES or NO’.
 If ‘YES’ Enter below details & Click on ‘ Save & Continue’  tab  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -153,6 +163,7 @@ soft copy) and experience letter  (If left the organization).
  
 > Click on ‘ Add new row’  & enter experience/employment details  
  
+
  
 TCS Registration & Application form Submission Steps  
 Step: 9.7  Click on ‘ Declaration’  & answer the 4 questions listed.  
@@ -172,6 +183,7 @@ engineering or Diploma or Masters)
 Answer for all the questions will be ‘YES’  
 > Click on ‘I agree’  
  
+
  
 TCS Registration & Application form Submission Steps  
 Step: 10  Click on Each section under ‘ Other Details ’ & enter details.  
@@ -187,6 +199,7 @@ Step:  10.2  Click on Achievements/Scholarship & certifications  and enter detai
  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -201,6 +214,7 @@ Step: 10.4  Upload photo  & CV
  
  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -223,6 +237,7 @@ appl ied for and final results)
  
 You have successfully completed filling your application form and its submission.  
  
+
  
 TCS Registration & Application form Submission Steps  
  
@@ -240,6 +255,7 @@ have completed the application form submi ssion .
  
 Thank you  
 All the best  
+
 Step 1:  
 After submitting application form “apply for drive” option will be enabled.  
 Click on “Apply for drive”  
@@ -249,6 +265,7 @@ Select the mode of test from dropdown.
  
  
  
+
 Step 3:  
 In-centre mode:  
 If you are willing to attend test in centre, choose test mode  as in  centre  as shown below.  
@@ -260,6 +277,7 @@ Select the nearest centre from the options available as  below then click OK.
  
  
  
+
 Remote mode:  
 If you are willing to take test via remote mode, choose test mode as Remote  as shown below  
  
@@ -272,7 +290,9 @@ Step 5:
 Confirmation of application.  
 You can confirm your application by clicking Track my application tab.  
 You will see Applied for drive row.  
+
  
+
 ya TCSNextStep Alerts CampusCommune [MASKED] Help&Support Login
 
 Welcome aboard
@@ -281,7 +301,8 @@ BRM eit)
 oe
 
  
-@ |CSNextStep
+
+@ |CSNextStep
 
 Select Category
 
@@ -294,8 +315,10 @@ registering in incorrect category may lead you to repeat the entire registration
  
 
 @ Information Technology @ Business Process Services
-TATA CONSULTANCY [MASKED]
-Please note that the TCS NextStep initiative is available in the India geography. Applications
+
+TATA CONSULTANCY [MASKED]
+
+Please note that the TCS NextStep initiative is available in the India geography. Applications
 from other countries will not be taken into account.
 
 Name+
@@ -319,8 +342,10 @@ Email id«
 Its important to enter your email Id carefully as it will be used for all communications from TCS.
 
  
-TATA CONSULTANCY [MASKED]
-Mobile number
+
+TATA CONSULTANCY [MASKED]
+
+Mobile number
 
 In. * | 91 [[MASKED]]
 
@@ -355,8 +380,11 @@ What is your Nationality?
 indian
 
 oe OS °
-TATA CONSULTANCY [MASKED]
-Dear First Middle Sumame, please confirm your Email Id and Mobile number
+
+
+TATA CONSULTANCY [MASKED]
+
+Dear First Middle Sumame, please confirm your Email Id and Mobile number
 
 ‘Your registered email id: [[MASKED]]
 
@@ -365,7 +393,8 @@ oe OS °
 Confirm Cancel
 
  
- 
+
+ 
 
 ‘Thank you for registering with TCS !
 
@@ -375,7 +404,8 @@ Please note your Reference ID: 0T20206910637 for all further communication with 
 Click on “Continue" and enter your password to complete Application Form and access Campus Commune.
 
 es
-TATA CONSULTANCY [MASKED]
+
+TATA CONSULTANCY [MASKED]
 
   
 
@@ -386,10 +416,14 @@ Pacewerd
 Please note your Refere
 
 ‘An Email with your CT/t Submit Reset | Cancel jistration Form,
-TATA CONSULTANCY [MASKED]
-You have successfully completed your account creating in TCS Database,
-Let us get going & complete your profile completion,
-Step
+
+TATA CONSULTANCY [MASKED]
+
+You have successfully completed your account creating in TCS Database,
+
+Let us get going & complete your profile completion,
+
+Step
 
 [MASKED] FIRST [MASKED] ([MASKED])
 Application Form
@@ -401,7 +435,8 @@ Track My Application Pec
 How To Apply
 
  
-  
+
+  
 
 Coe ae
 pe reeeecs
@@ -427,8 +462,10 @@ note that if you do not submit the form after editing any details, the details w
 Form
 
  
-TATA CONSULTANCY [MASKED]
-‘Application Form
+
+TATA CONSULTANCY [MASKED]
+
+‘Application Form
 
 Personal Details epteys etait Coe eae
 Experience Details and Declaration
@@ -458,7 +495,8 @@ Name/Block No.:* -
  
 
 citys city Pincode:* sosase
-‘are the Permanant and Prasant Address same?"
+
+‘are the Permanant and Prasant Address same?"
 
 Present Address
 
@@ -510,8 +548,10 @@ Mobile Phone:
 “od
 
 or || s1zs4se7ee
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
 Instruction *
 
@@ -575,7 +615,8 @@ into consideration for calculating the obtained/total marks/CGPA.
 ‘4, Verify your marks after entering, as itis a part of the selection criteria,
 
 5, Please mention only your Xll duration in XIl Grade details. Pls do not add the XI duration in the same.
- 
+
+ 
 
 [= ‘Application Form Preview
 pe reeeecs
@@ -624,8 +665,10 @@ Declaration ©
  
 
  
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
  
 
@@ -700,8 +743,10 @@ Incttute Name
 Equivalent 2
 
 60.00
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
  
 
@@ -765,7 +810,8 @@ Grading System O cepa ‘Total Marks Obtained 00
 Equivalent 96
 
 60.00
- 
+
+ 
 
 ‘Academic and Work [= ‘Application Form Prev
 pe reeeecs
@@ -820,8 +866,10 @@ Grading System (© cGPA GPA Obtained
  
 
 O Marks Total CGPA.
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
 ‘Academic and Work [— ‘Application Form Prev
 Exp = pe reeeecs
@@ -868,7 +916,8 @@ Equivalent %
 60.00
 
  
-  
+
+  
 
 ‘Application Form Prev
 
@@ -920,8 +969,10 @@ Declaration *
  
 
  
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
  
 
@@ -966,7 +1017,8 @@ Employer Duties SalaryINA)
  
 
  
-Employee 1D
+
+Employee 1D
 
 Name OF Employer
 
@@ -985,8 +1037,10 @@ Nature OF Duties
 Annual Gross Salary(INR)
 
  
-TATA CONSULTANCY [MASKED]
-Declaration
+
+TATA CONSULTANCY [MASKED]
+
+Declaration
 
  
 
@@ -1014,7 +1068,8 @@ currently?
  
 
  
-‘You have taken all subject marks into consideration for calculating the
+
+‘You have taken all subject marks into consideration for calculating the
 Obtained/Total Maris/CGPA in each ofthe above mentioned academic
 qualifications. *
 
@@ -1053,8 +1108,10 @@ ONo
 
 whenever requested for by TCSL.
 agree’ Ol
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
 Nationality and
 Languages Known *
@@ -1115,7 +1172,8 @@ this language is
  
 
  
- 
+
+ 
 
 Languages Known *
 
@@ -1146,8 +1204,10 @@ Certification Detai
  
 
 ‘Add New Certification ] [Delete Certification
-TATA CONSULTANCY [MASKED]
- 
+
+TATA CONSULTANCY [MASKED]
+
+ 
 
  
 
@@ -1189,7 +1249,8 @@ Name * First Lest
 Blood Group *
 
  
-ean
+
+ean
 
 simaies (
 
@@ -1200,10 +1261,15 @@ sites
 Please ensure file format is of the following types..ndf.doc,.docx,.txt..tf(max 500kb)
 
  
-TATA CONSULTANCY [MASKED]
-You have successfully completed filling your application form and its submission.
-TATA CONSULTANCY [MASKED]
-‘Security Details
+
+TATA CONSULTANCY [MASKED]
+
+You have successfully completed filling your application form and its submission.
+
+
+TATA CONSULTANCY [MASKED]
+
+‘Security Details
 
  
 
@@ -1220,8 +1286,10 @@ sentence / punishment ete and / ofthe nature ofthe case pending nthe Court / Uni
  
 
  
- 
-TCS Terms and Conditions
+
+ 
+
+TCS Terms and Conditions
 
  
 
@@ -1246,10 +1314,15 @@ agrees
 w2o7/a000
 
  
-TATA CONSULTANCY [MASKED]
-Below are the 3 ways to confirm that you have completed the application form.
- 
- 
+
+
+TATA CONSULTANCY [MASKED]
+
+Below are the 3 ways to confirm that you have completed the application form.
+
+ 
+
+ 
 
 Application Received
 
@@ -1274,7 +1347,8 @@ Registered
  
 
  
-Edit Application Form
+
+Edit Application Form
 
 Application Form PDF
 
@@ -1284,7 +1358,8 @@ Track My Application
 How To Apply
 
  
- 
+
+ 
 
  
 
@@ -1307,12 +1382,14 @@ Your application process is deemed submitted only when you complete the steps as
 Test Mode *
 
 Apply
-In-Centre
+
+In-Centre
 
 Remote
 
  
- 
+
+ 
 
 RM add
 
@@ -1349,7 +1426,8 @@ Nearest Test Centre* | [MASKED] ick here
  
 
 Apply
-Nearest Test Centre (Cities for which the Slots are over will be disabled)
+
+Nearest Test Centre (Cities for which the Slots are over will be disabled)
 
 ) [MASKED] ¢
 [MASKED] ¢
@@ -1431,7 +1509,8 @@ SATNA
 SHIVAMOGGA([MASKED])
 
  
- 
+
+ 
 
 con
 
@@ -1468,14 +1547,16 @@ TestMode* [Remote _V
  
 
 Apply
-   
+
+   
 
 De ec ee cd Change Password ‘, Contact Us rd
 
 You have applied for Recruitment Drive.
 
  
-ee ee
+
+ee ee
 Application Form PDF
 
 Campus Commune

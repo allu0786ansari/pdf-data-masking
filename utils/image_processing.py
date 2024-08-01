@@ -1,13 +1,17 @@
-import cv2
-import pytesseract
+from PyPDF2 import PdfFileReader
+from PIL import Image
+import fitz  # PyMuPDF
 
-def mask_text_in_image(image_path):
-    image = cv2.imread(image_path)
-    d = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
-    n_boxes = len(d['level'])
-    for i in range(n_boxes):
-        (x, y, w, h) = (d['left'][i], d['top'][i], d['width'][i], d['height'][i])
-        cv2.rectangle(image, (x, y), (x + w, y + h), (0, 0, 0), -1)
-    masked_image_path = 'masked_' + image_path
-    cv2.imwrite(masked_image_path, image)
-    return masked_image_path
+def extract_images_from_pdf(pdf_path):
+    pdf_document = fitz.open(pdf_path)
+    images = []
+    for page_number in range(len(pdf_document)):
+        page = pdf_document.load_page(page_number)
+        image_list = page.get_images(full=True)
+        for img_index, img in enumerate(image_list):
+            xref = img[0]
+            base_image = pdf_document.extract_image(xref)
+            image_bytes = base_image["image"]
+            image = Image.open(io.BytesIO(image_bytes))
+            images.append(image)
+    return images

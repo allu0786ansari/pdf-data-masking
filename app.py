@@ -1,9 +1,7 @@
 from flask import Flask, request, render_template, send_file, redirect, url_for
 import os
-from utils.text_extraction import extract_text_from_pdf
+from utils.text_extraction import extract_text_and_images
 from utils.text_masking import mask_sensitive_info
-from utils.image_processing import mask_text_in_image
-from utils.ocr import extract_text_from_image
 
 app = Flask(__name__)
 
@@ -25,7 +23,9 @@ def upload():
         f.save(file_path)
         
         # Process the PDF and mask sensitive info
-        text = extract_text_from_pdf(file_path)
+        text = extract_text_and_images(file_path)
+        print("Combined text from PDF and images:", text)  # Debug print
+        
         masked_text = mask_sensitive_info(text)
         
         # Save the masked text as a new text file for simplicity

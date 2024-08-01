@@ -54,13 +54,6 @@
                     </div>`;
                 $('#file-inputs').append(newFileInput);
             });
-
-            var downloadLinks = {{ download_links|tojson|safe }};
-            if (downloadLinks.length > 0) {
-                downloadLinks.forEach(function(link, index) {
-                    $('#download-links').append('<a href="' + link + '" class="btn btn-secondary mb-2">Download Processed PDF ' + (index + 1) + '</a><br>');
-                });
-            }
         });
     </script>
 </body>

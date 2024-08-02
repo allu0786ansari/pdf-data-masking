@@ -7,3 +7,4 @@ spacy
 FPDF
 transformers
 PyMuPDF
+tesseract

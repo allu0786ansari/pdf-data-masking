@@ -1,5 +1,5 @@
 body {
-    background-color: #1d08a5;
+    background-color: #74d9eb;
     font-family: 'Arial', sans-serif;
 }
 
@@ -9,7 +9,7 @@ body {
 
 .card-header {
     background-color: #db4856;
-    color: white;
+    color: rgb(234, 229, 233);
 }
 
 .btn-primary {

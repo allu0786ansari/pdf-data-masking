@@ -20,12 +20,21 @@ patterns = {
     "iban": re.compile(r"\b[A-Z]{2}\d{2}[A-Z0-9]{1,30}\b"),
 }
 
+def partial_mask(text, visible_chars=4, mask_char='*'):
+    length = len(text)
+    if length <= visible_chars:
+        return mask_char * length
+    num_visible = visible_chars // 2
+    return text[:num_visible] + mask_char * (length - visible_chars) + text[-num_visible:]
+
 def mask_sensitive_info(text):
     # Apply regular expressions for additional patterns first
     masked_text = text
     for key, pattern in patterns.items():
-        masked_text = pattern.sub("[MASKED]", masked_text)
-    
+        matches = pattern.finditer(masked_text)
+        for match in matches:
+            masked_text = masked_text.replace(match.group(), partial_mask(match.group()))
+
     # Use Hugging Face NER model
     ner_results = nlp_hf(masked_text)
     
@@ -55,7 +64,7 @@ def mask_sensitive_info(text):
             result.append(masked_text[last_end:start])
         # Masking entities detected by Hugging Face model
         if entity['entity'] in ["B-PER", "B-ORG", "B-LOC"]:
-            result.append("[MASKED]")
+            result.append(partial_mask(masked_text[start:end]))
         last_end = end
 
     # Append remaining part of the text

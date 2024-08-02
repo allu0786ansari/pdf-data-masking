@@ -4,3 +4,6 @@ pytesseract
 opencv-python
 Pillow
 spacy
+FPDF
+transformers
+PyMuPDF

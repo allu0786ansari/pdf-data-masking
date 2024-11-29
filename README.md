@@ -10,4 +10,4 @@ Follow the given instruction to run the code:
 6. Type python app.py in the terminal and wait for few seconds, you will get a link, clink the link and open the web interface.
 7. If you don't get the link, go for PORTS section in terminal and click on global icon.
 8. Now you can upload the pdf file and get you  data masked.....
-9. Thank you!!!!!!!!!!
+9. Thank you
